@@ -15,7 +15,7 @@
 - 🏕️ **한화시스템 BEYOND SW캠프** 수료 (2024.11 ~ 2025.05)
 - 📊 **빅데이터 분석기사**, **SQLD**, **AdsP** 보유
 
-[**포트폴리오 보기**](https://docs.google.com/presentation/d/1rYxNtYQYZnVZ0FOOQCtHjlA91Q38L_kB/edit?slide=id.p6#slide=id.p6)
+[**포트폴리오 보기**](https://broadleaf-exoplanet-647.notion.site/2f0e6326d6e88021881fde6a1c71601c?pvs=74)
 
 ### 🚀 핵심 역량
 - **도전적인 엔지니어**: 새로운 기술 트렌드에 민감하게 반응하며 지속적 학습을 통한 역량 확장
